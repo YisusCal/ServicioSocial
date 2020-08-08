@@ -120,6 +120,12 @@ header:hover {
   cursor: pointer;
 }
 
+/* NAvegadores generales, todas las "a" se encuentran aqui */
+a.navegadores{
+  color: white;
+  text-decoration: none;
+}
+
 /* Edicion de nuestra lista */
 .menu ul {
   display: -webkit-box;
